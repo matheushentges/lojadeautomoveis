@@ -24,7 +24,7 @@
 
   <body class="text-center">
     <form class="form-signin" method="POST" action="app/login/login.php">
-      <img class="mb-4" src="https://www.ixcsoft.com.br/wp-content/themes/ixc/images/logo2.png" >
+      <img class="mb-4" src="https://images.vexels.com/media/users/3/156343/isolated/preview/5a66de1481e577294f27e683a569bc42-iacute-cone-de-cadeado-simples-by-vexels.png" >
       <h1 class="h3 mb-3 font-weight-normal">Login</h1>
       <label for="inputEmail" class="sr-only">Endereço de email</label>
       <input type="email" name="email" class="form-control" placeholder="Email" required autofocus>
