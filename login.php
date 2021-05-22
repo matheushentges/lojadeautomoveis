@@ -30,11 +30,6 @@
       <input type="email" name="email" class="form-control" placeholder="Email" required autofocus>
       <label for="inputPassword" class="sr-only">Senha</label>
       <input type="password" name="pass" class="form-control" placeholder="Senha" required>
-      <div class="checkbox mb-3">
-        <label>
-          <input type="checkbox" value="remember-me"> Lembrar-me
-        </label>
-      </div>
       <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
       <br>
       <?php
