@@ -16,7 +16,7 @@ class Session{
             if($app){
                 header('Location: ../../login.php?permissao=false');
             }else{
-                header('Location: login.php?permissao=false');
+                header('Location: login.php');
             }
         }
     }
