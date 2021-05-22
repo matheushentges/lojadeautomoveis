@@ -3,9 +3,9 @@
 class MySQL
 
 {
-    const HOST = 'localhost';
+    const HOST = 'host';
     const USER = 'root';
-    const PASS = 'IXCSoft6001';
+    const PASS = 'senha';
     const DATABASE = 'loja';
 
     public function connectDB()
